@@ -1,10 +1,6 @@
 package com.it;
 
-/**
- * Package: com.it
- * Author: 张成
- * Date: Created in 2019/8/2 13:50
- **/
+
 public class User {
     private String name;
     private String age;
